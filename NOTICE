@@ -1,0 +1,5 @@
+This project relies on `framework_lib`, a Rust library developed by Framework Computer Inc. `framework_lib` is licensed under the BSD 3-Clause License.
+
+`fwinfo` is not officially endorsed by Framework Computer Inc.
+
+For more information, please see https://github.com/FrameworkComputer/framework-system.
